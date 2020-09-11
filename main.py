@@ -1,6 +1,6 @@
 print("Welcome to Madlibs")
 
-food = input ("Enter a food item ")
+food = input ("Enter a song ")
 
-print(f"I woke up this morning, feeling so hungry and craving {food}")
+print(f"I woke up this morning, and sang {food} in the shower")
 
